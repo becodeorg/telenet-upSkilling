@@ -1,0 +1,2 @@
+!function(){var aS=document.createElement("script");aS.type="text/javascript",aS.async=!0,aS.src="https://tag.audience.acpm.fr/js/on-1.0.min.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(aS,s),aS.addEventListener?aS.addEventListener("load",function(){aSloaded()},!1):aS.onreadystatechange=function(){aS.readyState in{complete:1,loaded:1}&&aSloaded()},aSloaded=function(){new Acpm.Tag(267067216673).send()}}();
+//# sourceMappingURL=mediametrie.js.map
